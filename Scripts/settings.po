@@ -1,0 +1,1599 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Realta Nua\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-27 12:19+0300\n"
+"PO-Revision-Date: 2025-03-21 19:23-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sp\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_n:1,2;_x:1,2c;_nx:4c,1,2;_n_noop:1,2;"
+"_nx_noop:3c,1,2;_t\n"
+"X-Poedit-SourceCharset: UTF-16LE\n"
+
+#: FlowChartLayer.tjs:71
+msgctxt "flowchart_title_fontFace"
+msgid "MS UI Gothic"
+msgstr ""
+
+#: FlowChartLayer.tjs:314
+msgctxt "flowchart_area_fontFace"
+msgid "MS UI Gothic"
+msgstr ""
+
+#: FlowChartLayer.tjs:531
+msgctxt "flowchart_flaglist_fontFace"
+msgid "MS UI Gothic"
+msgstr ""
+
+#: FlowChartLayer.tjs:782
+msgctxt "flowchart_popup_fontFace"
+msgid "MS UI Gothic"
+msgstr ""
+
+#: FlowTrackerPlugin.ks:1869 FlowTrackerPlugin.ks:1919
+msgctxt "flag_popup_font_face"
+msgid "MS UI Gothic"
+msgstr "Tahoma"
+
+#: FontSelectLayer.tjs:220
+msgctxt "font_glyph_support_hint"
+msgid "(凛ß)"
+msgstr ""
+
+#: FontSelectLayer.tjs:664
+msgctxt "ui_font_face"
+msgid "MS UI Gothic"
+msgstr ",Calibri"
+
+#: JinjaPlugin.tjs:265
+msgctxt "omikuji_horizontal"
+msgid "0"
+msgstr ""
+
+#: JinjaPlugin.tjs:267
+msgctxt "jinja_font_face"
+msgid "ＭＳ 明朝"
+msgstr ""
+
+#: MainWindow.tjs:4224
+msgctxt "jinja_ch_speed"
+msgid "140"
+msgstr ""
+
+#: MusicListLayer.tjs:35
+msgctxt "music_font_face"
+msgid "ＭＳ Ｐ明朝"
+msgstr ",Calibri"
+
+#: MusicListLayer.tjs:36
+msgctxt "music_font_top_offset"
+msgid "0"
+msgstr "3"
+
+#: PlayTimePlugin.ks:20
+msgctxt "playtime_days_val_left_offset"
+msgid "110"
+msgstr ""
+
+#: PlayTimePlugin.ks:21
+msgctxt "playtime_hours_val_left_offset"
+msgid "161"
+msgstr ""
+
+#: PlayTimePlugin.ks:22
+msgctxt "playtime_minutes_val_left_offset"
+msgid "229"
+msgstr ""
+
+#: PlayTimePlugin.ks:23
+msgctxt "playtime_seconds_val_left_offset"
+msgid "282"
+msgstr ""
+
+#: PopUpLayer.tjs:57 PopupPlugin.tjs:61
+msgctxt "popup_font_face"
+msgid "MS UI Gothic"
+msgstr ",Calibri"
+
+#: PopUpLayer.tjs:89 PopupPlugin.tjs:93
+msgctxt "popup_topOffset"
+msgid "0"
+msgstr "1"
+
+#: QuizSystem.ks:30
+msgctxt "marginb_quiz"
+msgid "19"
+msgstr ""
+
+#: QuizSystem.ks:30
+msgctxt "marginl_quiz"
+msgid "49"
+msgstr ""
+
+#: QuizSystem.ks:30
+msgctxt "marginr_quiz"
+msgid "49"
+msgstr ""
+
+#: QuizSystem.ks:30
+msgctxt "margint_quiz"
+msgid "56"
+msgstr ""
+
+#: QuizSystem.ks:31 init.tjs:267 init.tjs:268 patch_kagconfig.tjs:406
+#: マクロ.ks:1113
+msgctxt "defaultrubysize_basic"
+msgid "12"
+msgstr ""
+
+#: QuizSystem.ks:31 init.tjs:267 init.tjs:268 patch_kagconfig.tjs:372
+#: マクロ.ks:1113
+msgctxt "fontsize_basic"
+msgid "27"
+msgstr ""
+
+#: QuizSystem.ks:32
+msgctxt "linespacing_quiz"
+msgid "13"
+msgstr ""
+
+#: SaveLoadMenuLayer.tjs:646
+msgctxt "font_height_now_loading"
+msgid "32"
+msgstr ""
+
+#: SaveLoadMenuLayer.tjs:647
+msgctxt "now_loading_font_face"
+msgid "ＭＳ Ｐゴシック"
+msgstr ""
+
+#: SaveLoadMenuLayer.tjs:1278
+msgctxt "save_data_info_font_face"
+msgid "MS UI Gothic"
+msgstr ""
+
+#: StaffrollPlugin.ks:70 StaffrollPlugin.ks:472 StaffrollPlugin.ks:541
+msgctxt "enable_staffroll_display"
+msgid "1"
+msgstr ""
+
+#: TextDrawerSettings.tjs:17
+msgctxt "ss_statusButtons_title_fontFace"
+msgid "DFGGiHiG-W7"
+msgstr ",Sabon Next LT Pro Display"
+
+#: TextDrawerSettings.tjs:18
+msgctxt "ss_statusButtons_title_fontHeight"
+msgid "20"
+msgstr "18"
+
+#: TextDrawerSettings.tjs:19
+msgctxt "ss_statusButtons_title_fontBold"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:20
+msgctxt "ss_statusButtons_title_fontItalic"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:37
+msgctxt "ss_statusButtons_title_topOffset"
+msgid "-1"
+msgstr "0"
+
+#: TextDrawerSettings.tjs:63
+msgctxt "ss_classNameTitle_text_fontFace"
+msgid "DFGGiHiG-W7"
+msgstr ",Bernhard Modern Std Roman"
+
+#: TextDrawerSettings.tjs:64
+msgctxt "ss_classNameTitle_text_fontHeight"
+msgid "20"
+msgstr ""
+
+#: TextDrawerSettings.tjs:65
+msgctxt "ss_classNameTitle_text_fontItalic"
+msgid "1"
+msgstr ""
+
+#: TextDrawerSettings.tjs:66
+msgctxt "ss_classNameTitle_text_topOffset"
+msgid "74"
+msgstr "77"
+
+#: TextDrawerSettings.tjs:67
+msgctxt "ss_classNameTitle_text_content"
+msgid "ＣＬＡＳＳ"
+msgstr "Clase"
+
+#: TextDrawerSettings.tjs:68
+msgctxt "ss_classNameTitle_text_letterSpace"
+msgid "1"
+msgstr "0"
+
+#: TextDrawerSettings.tjs:92
+msgctxt "ss_className_text_fontFace"
+msgid "DFGLeiSho-SB"
+msgstr ",Bernhard Modern Std Roman"
+
+#: TextDrawerSettings.tjs:93
+msgctxt "ss_className_text_fontHeight"
+msgid "50"
+msgstr "42"
+
+#: TextDrawerSettings.tjs:94
+msgctxt "ss_className_text_fontBold"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:95
+msgctxt "ss_className_text_fontItalic"
+msgid "1"
+msgstr ""
+
+#: TextDrawerSettings.tjs:96
+msgctxt "ss_className_text_topOffset"
+msgid "2"
+msgstr "4"
+
+#: TextDrawerSettings.tjs:97
+msgctxt "ss_className_text_letterSpace"
+msgid "4"
+msgstr "0"
+
+#: TextDrawerSettings.tjs:123
+msgctxt "ss_statusLabels_text_fontFace"
+msgid "DFHSMincho Std"
+msgstr ",Sabon Next LT Pro Display"
+
+#: TextDrawerSettings.tjs:124
+msgctxt "ss_statusLabels_text_fontHeight"
+msgid "14"
+msgstr ""
+
+#: TextDrawerSettings.tjs:125
+msgctxt "ss_statusLabels_text_fontItalic"
+msgid "1"
+msgstr ""
+
+#: TextDrawerSettings.tjs:126
+msgctxt "ss_statusLabels_text_topOffset"
+msgid "114"
+msgstr "115"
+
+#: TextDrawerSettings.tjs:127
+msgctxt "ss_statusLabels_text_letterSpace"
+msgid "1"
+msgstr "0"
+
+#: TextDrawerSettings.tjs:152
+msgctxt "ss_id_text_fontFace"
+msgid "DFHSMincho Std"
+msgstr ",Sabon Next LT Pro Display"
+
+#: TextDrawerSettings.tjs:153
+msgctxt "ss_id_text_fontHeight"
+msgid "18"
+msgstr ""
+
+#: TextDrawerSettings.tjs:154
+msgctxt "ss_id_text_fontBold"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:155
+msgctxt "ss_id_text_fontItalic"
+msgid "1"
+msgstr ""
+
+#: TextDrawerSettings.tjs:156
+msgctxt "ss_id_text_topOffset"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:157
+msgctxt "ss_id_text_letterSpace"
+msgid "2"
+msgstr "0"
+
+#: TextDrawerSettings.tjs:184
+msgctxt "ss_statusRank_text_fontFace"
+msgid "DFHSMincho Std"
+msgstr ",Sabon Next LT Pro Display"
+
+#: TextDrawerSettings.tjs:185
+msgctxt "ss_statusRank_text_fontHeight"
+msgid "16"
+msgstr "14"
+
+#: TextDrawerSettings.tjs:186
+msgctxt "ss_statusRank_text_fontItalic"
+msgid "1"
+msgstr ""
+
+#: TextDrawerSettings.tjs:187
+msgctxt "ss_statusRank_text_fontBold"
+msgid "1"
+msgstr ""
+
+#: TextDrawerSettings.tjs:188
+msgctxt "ss_statusRank_text_topOffset"
+msgid "1"
+msgstr "3"
+
+#: TextDrawerSettings.tjs:189
+msgctxt "ss_statusRank_text_letterSpace"
+msgid "1"
+msgstr "0"
+
+#: TextDrawerSettings.tjs:213
+msgctxt "ss_classAbilities_title_fontFace"
+msgid "DFHSMincho Std"
+msgstr ",Sabon Next LT Pro Display"
+
+#: TextDrawerSettings.tjs:214
+msgctxt "ss_classAbilities_title_fontHeight"
+msgid "17"
+msgstr ""
+
+#: TextDrawerSettings.tjs:215
+msgctxt "ss_classAbilities_title_fontItalic"
+msgid "1"
+msgstr ""
+
+#: TextDrawerSettings.tjs:216
+msgctxt "ss_classAbilities_title_topOffset"
+msgid "375"
+msgstr "379"
+
+#: TextDrawerSettings.tjs:242
+msgctxt "ss_abilities_title_fontFace"
+msgid "MS UI Gothic"
+msgstr ",Sabon Next LT Pro Display"
+
+#: TextDrawerSettings.tjs:243
+msgctxt "ss_abilities_title_fontHeight"
+msgid "17"
+msgstr "15"
+
+#: TextDrawerSettings.tjs:244
+msgctxt "ss_abilities_title_topOffset"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:256
+msgctxt "ss_abilities_text_fontFace"
+msgid "ＭＳ ゴシック"
+msgstr ",Sabon Next LT Pro Display"
+
+#: TextDrawerSettings.tjs:257
+msgctxt "ss_abilities_text_fontHeight"
+msgid "13"
+msgstr "12"
+
+#: TextDrawerSettings.tjs:258
+msgctxt "ss_abilities_text_topOffset"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:284
+msgctxt "ss_details_title_fontFace"
+msgid "DFLeiSho-SB"
+msgstr ",Sabon Next LT Pro Display"
+
+#: TextDrawerSettings.tjs:285
+msgctxt "ss_details_title_fontHeight"
+msgid "40"
+msgstr "32"
+
+#: TextDrawerSettings.tjs:286
+msgctxt "ss_details_title_fontBold"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:287
+msgctxt "ss_details_title_topOffset"
+msgid "15"
+msgstr "18"
+
+#: TextDrawerSettings.tjs:297
+msgctxt "ss_details_text_fontFace"
+msgid "MS UI Gothic"
+msgstr ",Sabon Next LT Pro Display"
+
+#: TextDrawerSettings.tjs:298
+msgctxt "ss_details_text_fontHeight"
+msgid "13"
+msgstr ""
+
+#: TextDrawerSettings.tjs:299
+msgctxt "ss_details_text_topOffset"
+msgid "97"
+msgstr ""
+
+#: TextDrawerSettings.tjs:300
+msgctxt "ss_details_text_horizontalOffset"
+msgid "0"
+msgstr "50"
+
+#: TextDrawerSettings.tjs:301
+msgctxt "ss_details_text_lineSpace"
+msgid "7"
+msgstr "3"
+
+#: TextDrawerSettings.tjs:329
+msgctxt "ss_skillsTitle_title_fontFace"
+msgid "DFGLeiSho-SB"
+msgstr ",Sabon Next LT Pro Display"
+
+#: TextDrawerSettings.tjs:330
+msgctxt "ss_skillsTitle_title_fontHeight"
+msgid "26"
+msgstr "24"
+
+#: TextDrawerSettings.tjs:331
+msgctxt "ss_skillsTitle_title_fontBold"
+msgid "0"
+msgstr "1"
+
+#: TextDrawerSettings.tjs:332
+msgctxt "ss_skillsTitle_title_topOffset"
+msgid "2"
+msgstr "5"
+
+#: TextDrawerSettings.tjs:354
+msgctxt "ss_skills_title_fontFace"
+msgid "DFPKaiSho-Bd"
+msgstr ",Sabon Next LT Pro Display"
+
+#: TextDrawerSettings.tjs:355
+msgctxt "ss_skills_title_fontHeight"
+msgid "24"
+msgstr "15"
+
+#: TextDrawerSettings.tjs:356
+msgctxt "ss_skills_title_fontBold"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:357
+msgctxt "ss_skills_title_topOffset"
+msgid "47"
+msgstr "51"
+
+#: TextDrawerSettings.tjs:363
+msgctxt "ss_skills_text_fontFace"
+msgid "MS UI Gothic"
+msgstr ",Sabon Next LT Pro Display"
+
+#: TextDrawerSettings.tjs:364
+msgctxt "ss_skills_text_fontHeight"
+msgid "14"
+msgstr "13"
+
+#: TextDrawerSettings.tjs:365
+msgctxt "ss_skills_text_topOffset"
+msgid "98"
+msgstr ""
+
+#: TextDrawerSettings.tjs:366
+msgctxt "ss_skills_text_horizontalOffset"
+msgid "0"
+msgstr "50"
+
+#: TextDrawerSettings.tjs:367
+msgctxt "ss_skills_text_lineSpace"
+msgid "8"
+msgstr "3"
+
+#: TextDrawerSettings.tjs:392
+msgctxt "ss_noblePhantasmText_title_fontFace"
+msgid "DFGLeiSho-SB"
+msgstr ",FZShuTi"
+
+#: TextDrawerSettings.tjs:393
+msgctxt "ss_noblePhantasmText_title_fontHeight"
+msgid "25"
+msgstr "22"
+
+#: TextDrawerSettings.tjs:394
+msgctxt "ss_noblePhantasmText_title_topOffset"
+msgid "10"
+msgstr "7"
+
+#: TextDrawerSettings.tjs:395
+msgctxt "ss_noblePhantasmText_title_fontBold"
+msgid "0"
+msgstr "1"
+
+#: TextDrawerSettings.tjs:409
+msgctxt "ss_noblePhantasmText_rubyTitle_fontFace"
+msgid "DFRyuSeki-W9"
+msgstr ",FZShuTi"
+
+#: TextDrawerSettings.tjs:410
+msgctxt "ss_noblePhantasmText_rubyTitle_fontHeight"
+msgid "12"
+msgstr ""
+
+#: TextDrawerSettings.tjs:411
+msgctxt "ss_noblePhantasmText_rubyTitle_rubyOffset"
+msgid "-3"
+msgstr "0"
+
+#: TextDrawerSettings.tjs:412
+msgctxt "ss_noblePhantasmText_rubyTitle_letterSpace"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:415
+msgctxt "ss_noblePhantasmText_text_fontFace"
+msgid "MS UI Gothic"
+msgstr ",Sabon Next LT Pro Display"
+
+#: TextDrawerSettings.tjs:416
+msgctxt "ss_noblePhantasmText_text_fontHeight"
+msgid "14"
+msgstr ""
+
+#: TextDrawerSettings.tjs:417
+msgctxt "ss_noblePhantasmText_text_topOffset"
+msgid "20"
+msgstr ""
+
+#: TextDrawerSettings.tjs:418
+msgctxt "ss_noblePhantasmText_text_horizontalOffset"
+msgid "0"
+msgstr "50"
+
+#: TextDrawerSettings.tjs:419
+msgctxt "ss_noblePhantasmText_text_lineSpace"
+msgid "8"
+msgstr "3"
+
+#: TextDrawerSettings.tjs:439
+msgctxt "ss_noblePhantasmSpecification_text_fontFace"
+msgid "DFPKaiSho-Bd"
+msgstr ",Sabon Next LT Pro Display"
+
+#: TextDrawerSettings.tjs:440
+msgctxt "ss_noblePhantasmSpecification_text_fontHeight"
+msgid "14"
+msgstr "13"
+
+#: TextDrawerSettings.tjs:441
+msgctxt "ss_noblePhantasmSpecification_text_topOffset"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:442
+msgctxt "ss_noblePhantasmSpecification_text_letterSpace"
+msgid "1"
+msgstr "0"
+
+#: TextDrawerSettings.tjs:466
+msgctxt "ss_noblePhantasmButtons_title_fontFace"
+msgid "DFGLeiSho-SB"
+msgstr ",Sabon Next LT Pro Display"
+
+#: TextDrawerSettings.tjs:467
+msgctxt "ss_noblePhantasmButtons_title_fontHeight"
+msgid "22"
+msgstr "11"
+
+#: TextDrawerSettings.tjs:468
+msgctxt "ss_noblePhantasmButtons_title_topOffset"
+msgid "1"
+msgstr "0"
+
+#: TextDrawerSettings.tjs:469
+msgctxt "ss_noblePhantasmButtons_title_fontBold"
+msgid "0"
+msgstr "1"
+
+#: TextDrawerSettings.tjs:470
+msgctxt "ss_noblePhantasmButtons_title_letterSpace"
+msgid "-2"
+msgstr "0"
+
+#: TextDrawerSettings.tjs:518
+msgctxt "ss_noblePhantasmButtons_rubyTitle_fontFace"
+msgid "DFRyuSeki-W9"
+msgstr ",Sabon Next LT Pro Display"
+
+#: TextDrawerSettings.tjs:519
+msgctxt "ss_noblePhantasmButtons_rubyTitle_fontHeight"
+msgid "11"
+msgstr "9"
+
+#: TextDrawerSettings.tjs:520
+msgctxt "ss_noblePhantasmButtons_rubyTitle_fontBold"
+msgid "0"
+msgstr "1"
+
+#: TextDrawerSettings.tjs:521
+msgctxt "ss_noblePhantasmButtons_rubyTitle_rubyOffset"
+msgid "-3"
+msgstr "0"
+
+#: TextDrawerSettings.tjs:522
+msgctxt "ss_noblePhantasmButtons_rubyTitle_letterSpace"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:543
+msgctxt "ss_weaponsTitle_title_fontFace"
+msgid "DFGLeiSho-SB"
+msgstr "Official Fate Font"
+
+#: TextDrawerSettings.tjs:544
+msgctxt "ss_weaponsTitle_title_fontHeight"
+msgid "26"
+msgstr "24"
+
+#: TextDrawerSettings.tjs:546
+msgctxt "ss_weaponsTitle_title_topOffset"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:562
+msgctxt "ss_weaponsTitle_rubyTitle_fontFace"
+msgid "DFPLeiSho-SB"
+msgstr "Official Fate Font"
+
+#: TextDrawerSettings.tjs:563
+msgctxt "ss_weaponsTitle_rubyTitle_fontHeight"
+msgid "14"
+msgstr "12"
+
+#: TextDrawerSettings.tjs:564
+msgctxt "ss_weaponsTitle_rubyTitle_rubyOffset"
+msgid "-3"
+msgstr "-1"
+
+#: TextDrawerSettings.tjs:565
+msgctxt "ss_weaponsTitle_rubyTitle_letterSpace"
+msgid "7"
+msgstr "0"
+
+#: TextDrawerSettings.tjs:578
+msgctxt "ss_weaponsUser_text_fontFace"
+msgid "DFGRyuSeki-W9"
+msgstr "Official Fate Font"
+
+#: TextDrawerSettings.tjs:579
+msgctxt "ss_weaponsUser_text_fontHeight"
+msgid "26"
+msgstr ""
+
+#: TextDrawerSettings.tjs:580
+msgctxt "ss_weaponsUser_text_topOffset"
+msgid "1"
+msgstr ""
+
+#: TextDrawerSettings.tjs:582
+msgctxt "ss_weaponsUser_text_letterSpace"
+msgid "2"
+msgstr "0"
+
+#: TextDrawerSettings.tjs:607
+msgctxt "ss_weaponsText_text_fontFace"
+msgid "DFGRyuSeki-W9"
+msgstr "Official Fate Font"
+
+#: TextDrawerSettings.tjs:608
+msgctxt "ss_weaponsText_text_fontHeight"
+msgid "17"
+msgstr "14"
+
+#: TextDrawerSettings.tjs:610
+msgctxt "ss_weaponsText_text_topOffset"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:611
+msgctxt "ss_weaponsText_text_horizontalOffset"
+msgid "0"
+msgstr "50"
+
+#: TextDrawerSettings.tjs:612
+msgctxt "ss_weaponsText_text_lineSpace"
+msgid "3"
+msgstr "3"
+
+#: TextDrawerSettings.tjs:613
+msgctxt "ss_weaponsText_text_letterSpace"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:638
+msgctxt "ss_weaponsName_text_fontFace"
+msgid "DFGLeiSho-SB"
+msgstr "Official Fate Font"
+
+#: TextDrawerSettings.tjs:639
+msgctxt "ss_weaponsName_text_fontHeight"
+msgid "20"
+msgstr ""
+
+#: TextDrawerSettings.tjs:640
+msgctxt "ss_weaponsName_text_topOffset"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:641
+msgctxt "ss_weaponsName_text_letterSpace"
+msgid "2"
+msgstr "0"
+
+#: TextDrawerSettings.tjs:677
+msgctxt "tigerDojo_text_fontFace"
+msgid "ＭＳ Ｐ明朝"
+msgstr ",Bernhard Modern Std Roman"
+
+#: TextDrawerSettings.tjs:678
+msgctxt "tigerDojo_text_fontHeight"
+msgid "30"
+msgstr ""
+
+#: TextDrawerSettings.tjs:679
+msgctxt "tigerDojo_text_fontBold"
+msgid "1"
+msgstr ""
+
+#: TextDrawerSettings.tjs:680
+msgctxt "tigerDojo_text_topOffset"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:705
+msgctxt "playTime_title_fontFace"
+msgid "Zapf Humanist 601"
+msgstr ""
+
+#: TextDrawerSettings.tjs:706
+msgctxt "playTime_title_fontHeight"
+msgid "22"
+msgstr ""
+
+#: TextDrawerSettings.tjs:707
+msgctxt "playTime_title_topOffset"
+msgid "-8"
+msgstr ""
+
+#: TextDrawerSettings.tjs:718
+msgctxt "playtime_days_lbl_left_offset"
+msgid "139"
+msgstr ""
+
+#: TextDrawerSettings.tjs:719
+msgctxt "playtime_hours_lbl_left_offset"
+msgid "190"
+msgstr ""
+
+#: TextDrawerSettings.tjs:720
+msgctxt "playtime_minutes_lbl_left_offset"
+msgid "258"
+msgstr ""
+
+#: TextDrawerSettings.tjs:721
+msgctxt "playtime_seconds_lbl_left_offset"
+msgid "312"
+msgstr ""
+
+#: TextDrawerSettings.tjs:737
+msgctxt "playTime2_title_fontFace"
+msgid "MS UI Gothic"
+msgstr ",Sabon Next LT Pro Display"
+
+#: TextDrawerSettings.tjs:738
+msgctxt "playTime2_title_fontHeight"
+msgid "15"
+msgstr "10"
+
+#: TextDrawerSettings.tjs:739
+msgctxt "playTime2_title_topOffset"
+msgid "0"
+msgstr ""
+
+#: TextDrawerSettings.tjs:763
+msgctxt "ss_extraMenuButtons_text_topOffset"
+msgid "3"
+msgstr ""
+
+#: TextDrawerSettings.tjs:766
+msgctxt "ss_extraMenuButtons_buttonWidth_prologue"
+msgid "127"
+msgstr "120"
+
+#: TextDrawerSettings.tjs:768
+msgctxt "ss_extraMenuButtons_buttonWidth_gallery"
+msgid "110"
+msgstr "120"
+
+#: TextDrawerSettings.tjs:770
+msgctxt "ss_extraMenuButtons_buttonWidth_music"
+msgid "94"
+msgstr "120"
+
+#: TextDrawerSettings.tjs:773
+msgctxt "ss_extraMenuButtons_buttonWidth_movie"
+msgid "97"
+msgstr "120"
+
+#: TextDrawerSettings.tjs:776
+msgctxt "ss_extraMenuButtons_buttonWidth_edlist"
+msgid "108"
+msgstr "120"
+
+#: TextDrawerSettings.tjs:779
+msgctxt "ss_extraMenuButtons_buttonWidth_status"
+msgid "96"
+msgstr "120"
+
+#: TextDrawerSettings.tjs:782
+msgctxt "ss_extraMenuButtons_buttonWidth_weapon"
+msgid "120"
+msgstr "120"
+
+#: TextDrawerSettings.tjs:785
+msgctxt "ss_extraMenuButtons_buttonWidth_scene"
+msgid "120"
+msgstr "120"
+
+#: TextDrawerSettings.tjs:788
+msgctxt "ss_extraMenuButtons_buttonWidth_back"
+msgid "91"
+msgstr ""
+
+#: TextDrawerSettings.tjs:789
+msgctxt "ss_extraMenuButtons_text_topOffset_Back"
+msgid "-2"
+msgstr ""
+
+#: TextDrawerSettings.tjs:791
+msgctxt "ss_extraMenuButtons_buttonWidth_Another"
+msgid "123"
+msgstr ""
+
+#: TextDrawerSettings.tjs:792
+msgctxt "ss_extraMenuButtons_text_topOffset_Another"
+msgid "-2"
+msgstr ""
+
+#: TextDrawerSettings.tjs:803
+msgctxt "ss_extraMenuButtons_text_fontFace"
+msgid "Zapf Humanist 601"
+msgstr ""
+
+#: TextDrawerSettings.tjs:804
+msgctxt "ss_extraMenuButtons_text_fontHeight"
+msgid "22"
+msgstr ""
+
+#: TextDrawerSettings.tjs:807
+msgctxt "ss_extraMenuButtons_text_letterSpace"
+msgid "2"
+msgstr ""
+
+#: TextDrawerSettings.tjs:1039
+msgctxt "voice_config_fontFace"
+msgid "ＭＳ Ｐ明朝"
+msgstr ",Calibri"
+
+#: TextDrawerSettings.tjs:1040
+msgctxt "voice_config_fontHeight"
+msgid "20"
+msgstr ""
+
+#: TextDrawerSettings.tjs:1076
+msgctxt "ss_titleMenuButtons_buttonWidthTrial_load"
+msgid "82"
+msgstr ""
+
+#: TextDrawerSettings.tjs:1078
+msgctxt "ss_titleMenuButtons_buttonWidthTrial_start"
+msgid "86"
+msgstr ""
+
+#: TextDrawerSettings.tjs:1080
+msgctxt "ss_titleMenuButtons_buttonWidthTrial_config"
+msgid "115"
+msgstr ""
+
+#: TextDrawerSettings.tjs:1082
+msgctxt "ss_titleMenuButtons_buttonWidthTrial_demo"
+msgid "91"
+msgstr ""
+
+#: TextDrawerSettings.tjs:1084
+msgctxt "ss_titleMenuButtons_buttonWidthTrial_exit"
+msgid "61"
+msgstr ""
+
+#: TextDrawerSettings.tjs:1088
+msgctxt "ss_titleMenuButtons_buttonWidth_load"
+msgid "79"
+msgstr ""
+
+#: TextDrawerSettings.tjs:1090
+msgctxt "ss_titleMenuButtons_buttonWidth_start"
+msgid "82"
+msgstr ""
+
+#: TextDrawerSettings.tjs:1092
+msgctxt "ss_titleMenuButtons_buttonWidth_config"
+msgid "96"
+msgstr ""
+
+#: TextDrawerSettings.tjs:1094
+msgctxt "ss_titleMenuButtons_buttonWidth_extra"
+msgid "81"
+msgstr ""
+
+#: TextDrawerSettings.tjs:1096
+msgctxt "ss_titleMenuButtons_buttonWidth_lastep"
+msgid "175"
+msgstr ""
+
+#: TextDrawerSettings.tjs:1104
+msgctxt "ss_titleMenuButtons_text_trial_topOffset"
+msgid "-1"
+msgstr ""
+
+#: TextDrawerSettings.tjs:1105
+msgctxt "ss_titleMenuButtons_text_lastep_topOffset"
+msgid "-1"
+msgstr "1"
+
+#: TextDrawerSettings.tjs:1106
+msgctxt "ss_titleMenuButtons_text_topOffset"
+msgid "-1"
+msgstr ""
+
+#: TextDrawerSettings.tjs:1128
+msgctxt "ss_titleMenuButtons_text_trial_fontFace"
+msgid "Zapf Humanist 601"
+msgstr ""
+
+#: TextDrawerSettings.tjs:1129
+msgctxt "ss_titleMenuButtons_text_trial_fontHeight"
+msgid "29"
+msgstr "20"
+
+#: TextDrawerSettings.tjs:1139
+msgctxt "ss_titleMenuButtons_text_lastep_fontFace"
+msgid "Times New Roman"
+msgstr ""
+
+#: TextDrawerSettings.tjs:1140
+msgctxt "ss_titleMenuButtons_text_lastep_fontHeight"
+msgid "26"
+msgstr "20"
+
+#: TextDrawerSettings.tjs:1150
+msgctxt "ss_titleMenuButtons_text_fontFace"
+msgid "Helvetica Light"
+msgstr ""
+
+#: TextDrawerSettings.tjs:1151
+msgctxt "ss_titleMenuButtons_text_fontHeight"
+msgid "24"
+msgstr "20"
+
+#: YesNoLayer.tjs:65
+msgctxt "yesno_font_face"
+msgid "ＭＳ ゴシック"
+msgstr "MS UI Gothic"
+
+#: YesNoLayer.tjs:66
+msgctxt "yesno_font_bold"
+msgid "0"
+msgstr ""
+
+#: about.ks:40
+msgctxt "translation_version"
+msgid "unknown_version"
+msgstr "Alpha 0.1"
+
+#: bgmconfiglayer.tjs:23 bgmconfiglayer.tjs:318
+msgctxt "bgm_font_face"
+msgid "ＭＳ Ｐ明朝"
+msgstr ",Calibri"
+
+#: bgmconfiglayer.tjs:319
+msgctxt "bgm_font_top_offset"
+msgid "8"
+msgstr "10"
+
+#: extra_buttons.dic:10 extra_buttons.dic:11
+msgctxt "ss_extraMenuButtons_text_fontHeight_Back"
+msgid "29"
+msgstr "25"
+
+#: extra_buttons.dic:10 extra_buttons.dic:11
+msgctxt "ss_extraMenuButtons_text_letterSpace_Back"
+msgid "3"
+msgstr ""
+
+#: extra_buttons.dic:12
+msgctxt "ss_extraMenuButtons_text_letterSpace_Another"
+msgid "0"
+msgstr ""
+
+#: extra_buttons.dic:12
+msgctxt "ss_extraMenuButtons_text_fontHeight_Another"
+msgid "29"
+msgstr "25"
+
+#: hint.tjs:108
+msgctxt "hint_font_face"
+msgid "MS UI Gothic"
+msgstr "Tahoma"
+
+#: hint.tjs:240
+msgctxt "hint_fontHeightBase"
+msgid "9"
+msgstr ""
+
+#: init.tjs:268 patch_kagconfig.tjs:392
+msgctxt "window_font_face"
+msgid "ＭＳ ゴシック"
+msgstr "Official Fate Font"
+
+#: init.tjs:275 patch_kagconfig.tjs:318
+msgctxt "marginr_basic"
+msgid "48"
+msgstr ""
+
+#: init.tjs:275 patch_kagconfig.tjs:317
+msgctxt "marginl_basic"
+msgid "50"
+msgstr ""
+
+#: init.tjs:275 patch_kagconfig.tjs:319
+msgctxt "margint_basic"
+msgid "55"
+msgstr ""
+
+#: init.tjs:275 patch_kagconfig.tjs:320
+msgctxt "marginb_basic"
+msgid "65"
+msgstr ""
+
+#: init.tjs:277 patch_kagconfig.tjs:381 マクロ.ks:1114
+msgctxt "linespacing_basic"
+msgid "13"
+msgstr "6"
+
+#: init.tjs:284
+msgctxt "marginl_interlude"
+msgid "50"
+msgstr ""
+
+#: init.tjs:284
+msgctxt "margint_interlude"
+msgid "55"
+msgstr ""
+
+#: init.tjs:284
+msgctxt "marginb_interlude"
+msgid "65"
+msgstr ""
+
+#: init.tjs:284
+msgctxt "marginr_interlude"
+msgid "72"
+msgstr ""
+
+#: init.tjs:285 マクロ.ks:1138
+msgctxt "defaultrubysize_interlude"
+msgid "10"
+msgstr "12"
+
+#: init.tjs:285 マクロ.ks:1138
+msgctxt "fontsize_interlude"
+msgid "24"
+msgstr ""
+
+#: init.tjs:286 マクロ.ks:1139
+msgctxt "linespacing_interlude"
+msgid "10"
+msgstr "5"
+
+#: init.tjs:292
+msgctxt "margint_night"
+msgid "55"
+msgstr ""
+
+#: init.tjs:292
+msgctxt "marginl_night"
+msgid "65"
+msgstr ""
+
+#: init.tjs:292
+msgctxt "marginr_night"
+msgid "75"
+msgstr ""
+
+#: init.tjs:292
+msgctxt "marginb_night"
+msgid "77"
+msgstr ""
+
+#: init.tjs:293
+msgctxt "defaultrubysize_night"
+msgid "11"
+msgstr ""
+
+#: init.tjs:293
+msgctxt "fontsize_night"
+msgid "26"
+msgstr ""
+
+#: init.tjs:294
+msgctxt "linespacing_night"
+msgid "11"
+msgstr "5"
+
+#: init.tjs:300
+msgctxt "marginb_window"
+msgid "19"
+msgstr ""
+
+#: init.tjs:300
+msgctxt "marginl_window"
+msgid "49"
+msgstr ""
+
+#: init.tjs:300
+msgctxt "marginr_window"
+msgid "49"
+msgstr ""
+
+#: init.tjs:300
+msgctxt "margint_window"
+msgid "56"
+msgstr ""
+
+#: init.tjs:302
+msgctxt "linespacing_window"
+msgid "13"
+msgstr "6"
+
+#: init.tjs:308
+msgctxt "marginb_tiger"
+msgid "16"
+msgstr "8"
+
+#: init.tjs:308
+msgctxt "marginr_tiger"
+msgid "24"
+msgstr "13"
+
+#: init.tjs:308
+msgctxt "marginl_tiger"
+msgid "39"
+msgstr "50"
+
+#: init.tjs:308
+msgctxt "margint_tiger"
+msgid "69"
+msgstr ""
+
+#: init.tjs:310 マクロ.ks:1171
+msgctxt "linespacing_tiger"
+msgid "13"
+msgstr "6"
+
+#: init.tjs:316
+msgctxt "marginb_jinja"
+msgid "16"
+msgstr ""
+
+#: init.tjs:316
+msgctxt "marginr_jinja"
+msgid "33"
+msgstr ""
+
+#: init.tjs:316
+msgctxt "marginl_jinja"
+msgid "48"
+msgstr ""
+
+#: init.tjs:316
+msgctxt "margint_jinja"
+msgid "69"
+msgstr ""
+
+#: init.tjs:318
+msgctxt "linespacing_jinja"
+msgid "13"
+msgstr "6"
+
+#: init.tjs:326
+msgctxt "linespacing_menu"
+msgid "13"
+msgstr "6"
+
+#: init.tjs:334
+msgctxt "linespacing_minigame"
+msgid "13"
+msgstr "6"
+
+#: init.tjs:3085 init.tjs:3088
+msgctxt "marginb_themovie"
+msgid "21"
+msgstr ""
+
+#: init.tjs:3085 init.tjs:3088
+msgctxt "margint_themovie"
+msgid "30"
+msgstr ""
+
+#: init.tjs:3085 init.tjs:3088
+msgctxt "marginl_themovie"
+msgid "57"
+msgstr ""
+
+#: init.tjs:3085 init.tjs:3088
+msgctxt "marginr_themovie"
+msgid "57"
+msgstr ""
+
+#: init.tjs:3087 init.tjs:3090
+msgctxt "linespacing_themovie"
+msgid "13"
+msgstr ""
+
+#: init.tjs:3875
+msgctxt "speaker_font_face"
+msgid "MS UI Gothic"
+msgstr ",Calibri"
+
+#: newstaffroll.ks:12 staffroll.ks:12
+msgctxt "japanese_credits_font_face"
+msgid "ＭＳ Ｐ明朝"
+msgstr "MS Gothic"
+
+#: newstaffroll.ks:658 staffroll.ks:644
+msgctxt "credits_font_face"
+msgid "ＭＳ Ｐ明朝"
+msgstr ",Calibri"
+
+#: patch_kagconfig.tjs:329
+msgctxt "marginl_basic_wohn"
+msgid "142"
+msgstr ""
+
+#: patch_kagconfig.tjs:330
+msgctxt "marginr_basic_wohn"
+msgid "142"
+msgstr ""
+
+#: patch_kagconfig.tjs:331
+msgctxt "margint_basic_wohn"
+msgid "69"
+msgstr ""
+
+#: patch_kagconfig.tjs:332
+msgctxt "marginb_basic_wohn"
+msgid "69"
+msgstr ""
+
+#: patch_kagconfig.tjs:361
+msgctxt "displaysinfixedpitchalsobyvariable_basic"
+msgid "1"
+msgstr ""
+
+#: patch_kagconfig.tjs:364
+msgctxt "displaysinfixedpitchalsobyvariable_basic_wohn"
+msgid "0"
+msgstr ""
+
+#: patch_kagconfig.tjs:376
+msgctxt "fontsize_basic_wohn"
+msgid "26"
+msgstr ""
+
+#: patch_kagconfig.tjs:384
+msgctxt "linespacing_basic_wohn"
+msgid "18"
+msgstr ""
+
+#: patch_kagconfig.tjs:388
+msgctxt "defaultpitch_basic_wohn"
+msgid "1"
+msgstr ""
+
+#: patch_kagconfig.tjs:395
+msgctxt "window_font_face_wohn"
+msgid "明朝D"
+msgstr ""
+
+#: patch_kagconfig.tjs:399
+msgctxt "defaultbold_basic"
+msgid "0"
+msgstr ""
+
+#: patch_kagconfig.tjs:402
+msgctxt "defaultbold_basic_wohn"
+msgid "1"
+msgstr ""
+
+#: patch_kagconfig.tjs:410
+msgctxt "defaultrubyoffset_basic"
+msgid "-1"
+msgstr ""
+
+#: patch_kagconfig.tjs:413
+msgctxt "defaultrubyoffset_basic_wohn"
+msgid "0"
+msgstr ""
+
+#: patch_kagconfig.tjs:434
+msgctxt "line_breaking_characters_following_message"
+msgid ""
+"%),:;]}｡｣ﾞﾟ。，、．：；゛゜ヽヾゝゞ々’”）〕］｝〉》」』】°′″℃¢％‰"
+msgstr ""
+
+#: patch_kagconfig.tjs:435
+msgctxt "line_breaking_characters_following_weak_message"
+msgid "!.?､･ｧｨｩｪｫｬｭｮｯｰ・？！ーぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮヵヶ"
+msgstr ""
+
+#: patch_kagconfig.tjs:436
+msgctxt "line_breaking_characters_leading_message"
+msgid "\\$([{｢‘“（〔［｛〈《「『【￥＄£"
+msgstr ""
+
+#: patch_kagconfig.tjs:455
+msgctxt "history_font_face"
+msgid "ＭＳ 明朝"
+msgstr ",Calibri"
+
+#: patch_kagconfig.tjs:458
+msgctxt "history_font_face_wohn"
+msgid "明朝D"
+msgstr ""
+
+#: patch_kagconfig.tjs:462
+msgctxt "font_bold_history"
+msgid "0"
+msgstr ""
+
+#: patch_kagconfig.tjs:480
+msgctxt "font_height_history"
+msgid "27"
+msgstr ""
+
+#: patch_kagconfig.tjs:483
+msgctxt "font_height_history_wohn"
+msgid "26"
+msgstr ""
+
+#: patch_kagconfig.tjs:513
+msgctxt "marginl_history_wohn"
+msgid "142"
+msgstr ""
+
+#: patch_kagconfig.tjs:514
+msgctxt "marginr_history_wohn"
+msgid "142"
+msgstr ""
+
+#: patch_kagconfig.tjs:515
+msgctxt "margint_history_wohn"
+msgid "69"
+msgstr ""
+
+#: patch_kagconfig.tjs:516
+msgctxt "marginb_history_wohn"
+msgid "69"
+msgstr ""
+
+#: patch_kagconfig.tjs:527
+msgctxt "line_breaking_characters_following_history"
+msgid ""
+"%),:;]}｡｣ﾞﾟ。，、．：；゛゜ヽヾゝゞ々’”）〕］｝〉》」』】°′″℃¢％‰"
+msgstr ""
+
+#: patch_kagconfig.tjs:528
+msgctxt "line_breaking_characters_following_weak_history"
+msgid "!.?､･ｧｨｩｪｫｬｭｮｯｰ・？！ーぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮヵヶ"
+msgstr ""
+
+#: patch_kagconfig.tjs:529
+msgctxt "line_breaking_characters_leading_history"
+msgid "\\$([{｢‘“（〔［｛〈《「『【￥＄£"
+msgstr ""
+
+#: patch_language.tjs:85
+msgctxt "patch_info_url"
+msgid "https://example.com/"
+msgstr "https://ultimate-moon.github.io/fate/"
+
+#: patch_language.tjs:788
+msgctxt "locale"
+msgid "ja_JP"
+msgstr "en_US"
+
+#: patch_language.tjs:1053
+msgctxt "language_menu_name"
+msgid "日本語 - &Japanese"
+msgstr "Español (Hee-Ho, Alpha 0.1)"
+
+#: patch_language_override.tjs:79
+msgctxt "replace_ideographic_space"
+msgid " "
+msgstr ""
+
+#: patch_textdrawer_override.tjs:89
+msgctxt "wallpaper_text"
+msgid "0"
+msgstr ""
+
+#: status_buttons.dic:12 status_buttons.dic:13 status_buttons.dic:14
+msgctxt "ss_statusButtons_title_fontHeight_lowerLeft"
+msgid "24"
+msgstr "18"
+
+#: status_buttons.dic:12 status_buttons.dic:13 status_buttons.dic:14
+#: status_buttons.dic:15
+msgctxt "ss_statusButtons_title_fontFace_lowerLeft"
+msgid "DFRyuSeki-W9"
+msgstr ",Sabon Next LT Pro Display"
+
+#: status_buttons.dic:15
+msgctxt "ss_statusButtons_title_letterSpace_lowerLeft_NP"
+msgid "0"
+msgstr ""
+
+#: status_buttons.dic:15
+msgctxt "ss_statusButtons_title_fontHeight_lowerLeft_NP"
+msgid "24"
+msgstr "15"
+
+#: status_classes.dic:9
+msgctxt "ss_className_text_leftOffset_Berserker"
+msgid "0"
+msgstr "23"
+
+#: status_details.dic:325 status_details.dic:335 status_details.dic:345
+#: status_details.dic:355
+msgctxt "ss_details_title_fontFace_Hassan"
+msgid "DFGLeiSho-SB"
+msgstr ",Sabon Next LT Pro Display"
+
+#: status_id.dic:37
+msgctxt "ss_id_text_fontHeight_MasterIllya"
+msgid "15"
+msgstr "18"
+
+#: status_noble_phantasm_buttons.dic:4
+msgctxt "ss_noblePhantasmButtons_rubyTitle_fontHeight_SaberBoundary"
+msgid "10"
+msgstr "8"
+
+#: status_noble_phantasm_buttons.dic:4
+msgctxt "ss_noblePhantasmButtons_title_fontHeight_SaberBoundary"
+msgid "22"
+msgstr "10"
+
+#: status_noble_phantasm_buttons.dic:5
+msgctxt "ss_noblePhantasmButtons_rubyTitle_fontHeight_LancerPiercing"
+msgid "10"
+msgstr "9"
+
+#: status_noble_phantasm_buttons.dic:5
+msgctxt "ss_noblePhantasmButtons_title_fontHeight_LancerPiercing"
+msgid "22"
+msgstr "10"
+
+#: status_noble_phantasm_buttons.dic:6
+msgctxt "ss_noblePhantasmButtons_rubyTitle_fontHeight_LancerThrusting"
+msgid "10"
+msgstr "9"
+
+#: status_noble_phantasm_buttons.dic:6
+msgctxt "ss_noblePhantasmButtons_title_fontHeight_LancerThrusting"
+msgid "22"
+msgstr "10"
+
+#: status_noble_phantasm_buttons.dic:7
+msgctxt "ss_noblePhantasmButtons_rubyTitle_fontHeight_RiderDark"
+msgid "10"
+msgstr "9"
+
+#: status_noble_phantasm_buttons.dic:7
+msgctxt "ss_noblePhantasmButtons_title_fontHeight_RiderDark"
+msgid "20"
+msgstr "11"
+
+#: status_noble_phantasm_buttons.dic:8
+msgctxt "ss_noblePhantasmButtons_rubyTitle_fontHeight_RiderReins"
+msgid "10"
+msgstr "9"
+
+#: status_noble_phantasm_buttons.dic:8
+msgctxt "ss_noblePhantasmButtons_title_fontHeight_RiderReins"
+msgid "22"
+msgstr "11"
+
+#: status_noble_phantasm_buttons.dic:9
+msgctxt "ss_noblePhantasmButtons_rubyTitle_fontHeight_RiderBlood"
+msgid "10"
+msgstr "9"
+
+#: status_noble_phantasm_buttons.dic:9
+msgctxt "ss_noblePhantasmButtons_title_fontHeight_RiderBlood"
+msgid "20"
+msgstr "11"
+
+#: status_noble_phantasm_buttons.dic:10
+msgctxt "ss_noblePhantasmButtons_rubyTitle_fontHeight_Treasure"
+msgid "10"
+msgstr "9"
+
+#: status_noble_phantasm_buttons.dic:11
+msgctxt "ss_noblePhantasmButtons_rubyTitle_fontHeight_GilgaStar"
+msgid "10"
+msgstr "8"
+
+#: status_noble_phantasm_buttons.dic:11
+msgctxt "ss_noblePhantasmButtons_title_fontHeight_GilgaStar"
+msgid "22"
+msgstr "9"
+
+#: status_noble_phantasm_text.dic:190
+msgctxt "ss_noblePhantasmText_rubyTitle_fontHeight_EnumaElish0"
+msgid "12"
+msgstr "11"
+
+#: status_noble_phantasm_text.dic:190
+msgctxt "ss_noblePhantasmText_title_fontHeight_EnumaElish0"
+msgid "22"
+msgstr "15"
+
+#: status_noble_phantasm_text.dic:201
+msgctxt "ss_noblePhantasmText_rubyTitle_fontHeight_EnumaElish1"
+msgid "12"
+msgstr "11"
+
+#: status_noble_phantasm_text.dic:201
+msgctxt "ss_noblePhantasmText_title_fontHeight_EnumaElish1"
+msgid "22"
+msgstr "15"
+
+#: status_skills.dic:67
+msgctxt "ss_skills_title_fontHeight_Lancer4"
+msgid "24"
+msgstr "15"
+
+#: status_skills.dic:150
+msgctxt "ss_skills_title_fontHeight_Caster1"
+msgid "24"
+msgstr "15"
+
+#: status_skills.dic:196
+msgctxt "ss_skills_title_fontHeight_Assassin4"
+msgid "24"
+msgstr "15"
+
+#: status_skills.dic:279
+msgctxt "ss_skills_title_fontHeight_TrueAssassin2"
+msgid "24"
+msgstr "15"
+
+#: voice_names.dic:13
+msgctxt "voice_config_fontHeight_Illya"
+msgid "15"
+msgstr "20"
