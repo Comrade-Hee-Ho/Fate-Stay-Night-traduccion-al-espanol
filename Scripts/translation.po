@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Realta Nua\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-27 12:19+0300\n"
-"PO-Revision-Date: 2026-10-18 03:09-0300\n"
+"PO-Revision-Date: 2026-10-25 00:15-0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_419\n"
@@ -3774,11 +3774,11 @@ msgid ""
 msgstr ""
 "Pero con la aparición de Jasón, su destino cambió.\n"
 "\n"
-"Afrodita le ayudó, pero ella, en vistas de que el rey de Cólquida era invulnerable, decidió controlar el corazón de la hija, Medea. Con lo cual, quedó enamorada de forma ciega e incondicional. \n"
+"Afrodita le ayudó, pero en vistas de que el rey de Cólquida era invulnerable, decidió controlar el corazón de la hija, Medea. Con esto, quedó enamorada de forma ciega e incondicional.\n"
 "\n"
-"Esto resultó en Medea traicionando a su propio reino junto a su propio padre. Todo por un hombre de afuera a quien siquiera había visto antes. \n"
+"Como resultado, Medea traicionó tanto a su reino como a su propio padre. Todo por un hombre extranjero al que ni siquiera conocía.\n"
 "\n"
-"Medea invalidó la hechicería de su padre y a su toro escupe fuego hilado por magia, haciendo que Jasón logré obtener el ansiado vellocino de oro."
+"Medea neutralizó la hechicería de su padre y a su toro escupefuego hilado por magia, logrando que Jasón obtuviera el ansiado vellocino de oro."
 
 #: status_details.dic:153
 msgid ""
@@ -3801,15 +3801,15 @@ msgid ""
 "イアソンは無事故郷である\n"
 "イオルコス王国に生還した。"
 msgstr ""
-"Por obvias razones, el rey de Cólquida enfureció, con lo cual dirigió su propio ejercito para capturar a Jasón y evitar que no abandonase el país.\n"
+"El rey de Cólquida se enfureció por obvias razones, de modo que dirigió su propio ejército para capturar a Jasón y evitar que abandonase el país.\n"
 "\n"
-"Para que Jasón pudiese escapar de esta persecución, la diosa uso a Medea nuevamente.\n"
+"Para que Jasón pudiese escapar de esta persecución, la diosa usó a Medea nuevamente.\n"
 "\n"
-"Medea abordó la nave del hombre que amaba solo por el nombre, el Argo, y asesinó a su hermano, Apsirto, en frente de su padre.\n"
+"Medea abordó la nave del hombre que amaba solo por su nombre, el Argo, y asesinó a su hermano Apsirto ante los ojos de su padre.\n"
 "\n"
-"El rey, lamentándolo, recolectó todos las parte del cuerpo despedazado de su hijo.\n"
+"El rey, lamentándolo, reunió todas las parte del cuerpo despedazado de su hijo.\n"
 "\n"
-"El Argo logró escapar de la persecución gracias a esto, por lo cual Jasón regresó sin muchos problemas al reino de Yolco."
+"Gracias a esto, el Argo logró dejar atrás a sus perseguidores, por lo que Jasón regresó al reino de Yolco sin mayor dificultad."
 
 #: status_details.dic:160
 msgid ""
@@ -3830,11 +3830,11 @@ msgid ""
 "ペリアス王にもかけてさしあげましょう\n"
 "と申し出たのだ。"
 msgstr ""
-"Tras regresar a su pueblo natal, Jasón trató de recuperar el reino del enemigo de su padre, el rey Pelias. Sin embargo, el rey se rehusó y en cambio hizo un plan para asesinarlo.\n"
+"Tras regresar a su pueblo natal, Jasón trató de recuperar el reino del enemigo de su padre, el rey Pelias. Sin embargo, el rey se rehusó y, en su lugar, ideó un plan para asesinarlo.\n"
 "\n"
-"Pero gracias a la ayuda de la hechicería de Medea, Jasón logró escapar de la muerte 3 veces, por lo cual Medea elaboró un plan por el bien de él.\n"
+"Pero gracias a la hechicería de Medea, Jasón logró librarse de la muerte tres veces. Dada la situación, Medea elaboró un plan para ayudar a su amado.\n"
 "\n"
-"Invitaron al rey Pelias y mataron a su sirviente. Medea revivió a este y le ofreció al rey el usar un hechizo de inmortalidad en él mismo."
+"Invitaron al rey Pelias y mataron a su sirviente. Acto seguido, Medea lo revivió y ofreció al rey usar en él mismo un hechizo de inmortalidad."
 
 #: status_details.dic:167
 msgid ""
@@ -3854,11 +3854,11 @@ msgid ""
 "メディアは魔女と貶められ、\n"
 "イアソンと共に国を追われた。"
 msgstr ""
-"El rey, complacido, voluntariamente entregó su cuerpo a Medea. Por lo cual obviamente Medea despedazó su cuerpo y lo tiró al mar.\n"
+"El rey, complacido, entregó su cuerpo voluntariamente, así que Medea no dudó en despedazarlo y arrojarlo al mar.\n"
 "\n"
-"Fue así como Jasón se convirtió en rey. Aún así, sus compañeros argonautas no aprobaban las acciones de Jasón y, sobre todo la existencia de Medea.\n"
+"Fue así como Jasón se convirtió en rey. Aún así, sus compañeros argonautas no aprobaban sus acciones y, sobre todo, la existencia de Medea.\n"
 "\n"
-"Traicionó a sus país por un hombre, asesinó a su hermano menor para poder sobrevivir, y esta vez engaño al rey para tomar el trono.\n"
+"Traicionó a sus país por un hombre, asesinó a su hermano menor para poder sobrevivir, y esta vez engañó al rey para tomar el trono.\n"
 "\n"
 "Medea fue menospreciada como una bruja y fue expulsada de su país junto a Jasón."
 
@@ -3879,13 +3879,13 @@ msgid ""
 "イアソンもまた王の若い娘を選び、\n"
 "メディアを追放した。"
 msgstr ""
-"Finalmente, Jasón y Medea llegaron a Corinto y fueron recibidos de forma amable por el rey.\n"
+"Finalmente, Jasón y Medea llegaron a Corinto y fueron recibidos con amabilidad por el rey.\n"
 "\n"
-"En esta tierra, Medea fue por fin capaz de tener días de descanso.\n"
+"En esta tierra, Medea por fin pudo disfrutar de unos días de descanso.\n"
 "\n"
-"Siendo llevada lejos de su país y temida como una bruja, pronto la paz que había obtenido no iba a seguir muy lejos.\n"
+"Al estar lejos de su país y ser temida como una bruja, la paz que había obtenido no duraría mucho más.\n"
 "\n"
-"Jasón fue del agrado del rey de Corinto, por lo cual pensó en arreglar un matrimonio entre este y su hija y, tras haber escogido a la joven chica, Medea fue exiliada."
+"Jasón fue del agrado del rey de Corinto, por lo que pensó en arreglar un matrimonio entre este y su hija. Una vez había escogido a la joven, Medea fue exiliada."
 
 #: status_details.dic:181
 msgid ""
@@ -3905,13 +3905,13 @@ msgid ""
 "王女は本当の魔女となり、\n"
 "ギリシャの地を彷徨い続けたとも言われる。"
 msgstr ""
-"Sus acciones tras esto serían dignos de una bruja.\n"
+"Sus acciones posteriores serían dignas de una bruja.\n"
 "\n"
-"Medea apareció en la boda de Jasón y quemó vivos a todos los que atendieron, incluyendo al rey de Corinto y su hija, dejando el castillo sin antes dejar solo vivo a Jasón.\n"
+"Medea apareció en la boda de Jasón y quemó vivos a todos los asistentes, incluidos el rey de Corinto y su hija, para luego abandonar el castillo y dejar a Jasón como único superviviente.\n"
 "\n"
-"Los siguientes movimientos de Medea tras dejar Corinto son desconocidos.\n"
+"Se desconoce qué hizo Medea tras dejar Corinto.\n"
 "\n"
-"La vida de la princesa fue nada más que traición y traicionar a otros, convirtiéndose en una bruja de verdad y se dice que continuó vagando la tierra de Grecia."
+"La vida de la princesa no fue más que traicionar y ser traicionada, convirtiéndose en una auténtica bruja que, según dicen, continuó vagando por las tierras de Grecia."
 
 #: status_details.dic:187 status_details.dic:194 status_details.dic:201 status_id.dic:24
 msgid "メドゥーサ"
@@ -3932,15 +3932,18 @@ msgid ""
 "の末女で、姉たちと違い唯一不死ではない。\n"
 "黄金のリンゴが育つ島の近く、「形ない島」　に棲む。"
 msgstr ""
-"A half-human, half-god, female beast that can petrify whatever it sees, which appeared in Greek mythologies.\n"
+"Monstruo mitad-persona y mitad-deidad originaria de la mitología griega.\n"
 "\n"
-"A demon that is often portrayed in the form of a snake. She was defeated by the hero Persius. She is an anti-hero, who became so because of dark thoughts.\n"
+"Un demonio que suele ser representado como una serpiente personificada.\n"
+"Fue derrotada por el héroe Perseo.\n"
+"Alabada como un anti-héroe debido a sus pensamientos negativos.\n"
 "\n"
-"The three Gorgon sisters---\n"
-"Stheno, the strong woman\n"
-"Euryale, who flies far\n"
-"Medusa, who rules\n"
-"She is the youngest of the three, and the only one that is not immortal. They lived on a “shapeless island”, near the island where golden apples grew."
+"Forma parte de las 3 hermanas gorgonas:\n"
+"Esteno (Mujer fuerte).\n"
+"Euríale (Viaje extenso).\n"
+"Medusa (Guardiana).\n"
+"Ella es la hermana más joven que, a diferencia de sus hermanas no es inmortal.\n"
+"Fue criada en los alrededores de la llamada \"isla sin forma\", donde crecían manzanas doradas."
 
 #: status_details.dic:195
 msgid ""
@@ -3958,12 +3961,12 @@ msgid ""
 "その最期も神々の気まぐれによって\n"
 "首を狩られるという運命にあった。"
 msgstr ""
-"They were originally beautiful women, but since they were loved by the sea god Poseidon, they were hated by the sea god’s wife, and transformed into demons by the war goddess Athena who grew "
-"jealous of their beautiful hair.\n"
+"Originalmente eran chicas muy hermosas, pero, debido a que el dios del mar, Poseidón, se enamoró de ellas, consiguieron mala fama con la esposa de este y fueron transformadas en monstruos por la "
+"diosa de la guerra, Atenea, quien estaba celosa del hermoso cabello de las chicas.\n"
 "\n"
-"After they became demons, they secluded themselves in a lightless temple and it is said that they did not attack humans without reason.\n"
+"Luego de esto, ellas se confinaron en un templo afótico, se dice que no atacaban a los humanos imprudentemente.\n"
 "\n"
-"As a victim of the gods’s unreasonable actions, Medusa’s fate was to have her head cut off by the gods’ whim as well."
+"Medusa fue victima de un acto irracional de los dioses y, se dice que como último capricho de los dioses, su destino fue el que su cabeza fuera cazada."
 
 #: status_details.dic:202
 msgid ""
@@ -3978,11 +3981,12 @@ msgid ""
 "多種多様な能力は、\n"
 "女神として扱われていた頃の名残である。"
 msgstr ""
-"It is said that the pure-white flying horse Pegasus, that sprang from the blood of her headless neck, was the son of the sea god Poseidon.\n"
+"Se dice que Pegaso, hijo de Poseidón, surgió de la sangre de la cabeza cortada de Medusa.\n"
 "\n"
 "\n"
 "\n"
-"Classification-wise, she is more like a divine spirit than a heroic spirit. The great variety of abilities she has are traces from when she was treated as a goddess."
+"En términos de clasificación, Medusa no es un espíritu heroico como tal, se asemeja más a un espíritu divino.\n"
+"Su gran variedad de habilidades son vestigios de cuando era tratada como una diosa."
 
 #: status_details.dic:208 status_details.dic:215 status_details.dic:222
 msgid "佐々木小次郎"
@@ -4004,11 +4008,11 @@ msgid ""
 "宮本武蔵が記した　「五輪書」　には\n"
 "その名前すら記されていないからだ。"
 msgstr ""
-"A master swordsman, whose existence is doubted even though his name remains. He is a handsome swordsman who uses a 90cm longsword, “Monohoshizao”.\n"
+"Conocido espadachín excepcional, que si bien tiene nombre, su existencia está en duda. Fue un hermoso guerrero que blandía una espada de casi un metro conocida como \"El tendedero\".\n"
 "\n"
-"He was born in the Eiroku era, and it is claimed that he gained his fame around the 10th-17th year of the Keichou era, but the truth is still a mystery.\n"
+"Aunque no se sabe si es cierto, se dice que nació aproximadamente en la era Eiroku y que ganó su fama entre los años 10 y 17 de la era Keicho.\n"
 "\n"
-"This is because all books that note him are inconsistent in terms of years, and his name is not even mentioned in the book “Gorin no Shou” written by his biggest rival, Miyamoto Musashi."
+"Todos los libros que mencionan a Sasaki Kojiro tienen contradicciones en las fechas. Ni siquiera en el \"Libro de los cinco anillos\", escrito por su mayor rival, Miyamoto Musashi, es mencionado."
 
 #: status_details.dic:216
 msgid ""
@@ -4027,13 +4031,14 @@ msgid ""
 "船島　（のちの巌流島）　にて宮本武蔵と試合、\n"
 "その命を散らす。"
 msgstr ""
-"According to record, Kojirou is from the Echizen-country, and studied under the originator of the Toda style. He favored a long sword, and after defeating his master’s younger brother, he named "
-"his own style “Ganryu”.\n"
+"De acuerdo a los registros, Kojiro es proveniente de la región Echizen y estudió bajo la tutela del creador del Toda-ryu, además este decidió usar de preferencia espadas largas y, tras derrotar al "
+"hermano menor de su maestro se le otorgó el nombre de Ganryu.\n"
 "\n"
-"After that, he traveled around the country as a master swordsman. It is said that he developed his secret technique, Tsubame Gaeshi, which could even kill a flying shallow, around the Nishiki-"
-"river in the Suou region.\n"
+"Luego, como maestro de las artes marciales, se puso a viajar por distintas regiones y desarrolló su técnica \"Corte de la golondrina giratoria\" en el río Nishiki de la provincia de Suo, la cual "
+"incluso podía derribar a una golondrina en vuelo.\n"
 "\n"
-"After that, he terrified swordsmen around the country, and battled against Miyamoto Musashi at Funajima to maintain the reputation of the domain he served, dying the in process."
+"Tras aterrar a varios maestros de las artes marciales del país, Kojiro, por el bien de preservar el honor del servicio que había hecho, peleó contra Miyamoto Musashi en Funa-jima (conocida más "
+"tarde como Ganryu-jima), pelea en la cual perdió su vida."
 
 #: status_details.dic:223
 msgid ""
@@ -4052,12 +4057,14 @@ msgid ""
 "現代に伝わっている佐々木小次郎像は、\n"
 "人々が捏造した架空の大剣豪と言わざるをえない。"
 msgstr ""
-"Because of the sword’s length, he could not fight while holding onto his sheath, so he threw away his sheath in front of Musashi, and Musashi’s quote when he saw that, “Kojirou, you lose” is all "
-"too famous.\n"
+"Debido a longitud de su espada, él era incapaz de pelear conservando la funda, así que se deshizo de esta en frente de Musashi, el cual respondió:\n"
+"—Kojiro, tú perderás.\n"
+"Cita que se volvió muy famosa.\n"
 "\n"
-"Miyamoto Musashi was on of Japan’s best swordsmen. Sasaki Kojirou is known as Musashi’s worthy rival, but his real figure is hazy like the moon on water.\n"
+"Ciertamente los registros en Japón tienen a Miyamoto Musashi como el espadachín más prominente. Pero el hermoso guerrero Sasaki Kojiro fue conocido como su más grande rival, aunque su figura era "
+"tan incierta como la luna en la superficie del agua.\n"
 "\n"
-"While it is said that there was a person like him, we have to say the figure of Sasaki Kojirou passed down to the present is a fictional swordsman."
+"Si bien se dice que una persona similar a él existió, en la actualidad, la persona que se conoce como Sasaki Kojiro no es más que un personaje ficticio al que se le atribuye ser un gran espadachín."
 
 #: status_details.dic:229 status_details.dic:236 status_details.dic:243 status_details.dic:250 status_details.dic:257 status_details.dic:264 status_id.dic:27
 msgid "ヘラクレス"
@@ -4081,12 +4088,14 @@ msgid ""
 "デバイの王に娘であるメガラを与えられ、\n"
 "二人の子供と王の継承権を手に入れた。"
 msgstr ""
-"The greatest hero in Greek mythology. He was a half-god, half-human hero born from Zeus, the king of the gods, and a human woman.\n"
+"El héroe es más grande de la mitología griega.\n"
+"Semidiós dado a luz por la unión de Zeus y una mujer humana.\n"
 "\n"
-"Although Heracles had superior talent in all things, there were big problems with his personality. As a child, he beat his harp teacher to death over a small matter, and after that he had to live "
-"as a shepherd to calm his temper.\n"
+"Heracles se destacaba en toda clase de habilidades, pero su personalidad era un gran problema.\n"
+"En su infancia golpeó hasta la muerte a su maestro de cítara debido a un problema trivial. Por eso, y como una forma de moderar su temperamento, vivió como un campesino hasta su adultez.\n"
 "\n"
-"Thus, he became a splendid man, and after he had accomplished several great deeds, the King of Thebes gave him his daughter Megara, and he earned two children and the right to succeed the king."
+"Fue así como Heracles creció hasta convertirse en un espléndido joven y logró grandes hazañas. Más tarde obtendría la mano de Mégara, la hija del rey de Tebas, con quien tendría dos hijos, y el "
+"derecho a heredar el trono."
 
 #: status_details.dic:237
 msgid ""
@@ -4102,9 +4111,10 @@ msgid ""
 "憎みきっており、\n"
 "ことあるごとに彼の運命を翻弄する事になる。"
 msgstr ""
-"Heracles was young and strong, and already no human was a match for him. The future seemed bright for him as he married the king’s daughter and had two children.\n"
+"Joven y fuerte, ningún humano era rival para Heracles.\n"
+"Se casó con la hija del rey de Tebas, tuvo dos hijos y parecía que su futuro iba viento en popa.\n"
 "\n"
-"But Zeus’s wife Hera detested the child born of Zeus and a human, and meddled with his fate at every opportunity."
+"Sin embargo, la esposa de Zeus, Hera, odiaba a Heracles debido a que nació de una humana. Por lo tanto, ella decidió jugar con el destino de Heracles en cada oportunidad que se le presentaba."
 
 #: status_details.dic:244
 msgid ""
@@ -4126,13 +4136,15 @@ msgid ""
 "一つたりとも達成できないであろう多くの難行。\n"
 "これが世に名高いヘラクレスの十二の難行である。"
 msgstr ""
-"First, Hera sent madness to Heracles and drove him insane, making him kill Megara and his two children.\n"
+"El primer movimiento de Hera fue inducir locura en Heracles, provocando que este asesinara a su esposa e hijos.\n"
 "\n"
-"Heracles, troubled by the sins he had committed, received a sign that he should atone for his sin by becoming the slave of Eurystheus, the man who took away his promised position as king.\n"
+"Aquejado por su pecado, Heracles recibió un mensaje divino. Este dictaba que para expiar sus pecados debía convertirse en el esclavo de Euristeo, el hombre que había arrebatado a Heracles su "
+"derecho al trono.\n"
 "\n"
-"Eurytheus was jealous of the strong hero Heracles and gave him many difficult tasks and claimed the he would keep him a slave until he completed these tasks.\n"
+"Euristeo, celoso de Heracles por ser un héroe fuerte, le impuso multitud de retos y le dijo que seguiría siendo su esclavo hasta que los completara.\n"
 "\n"
-"These were many difficult labors that were impossible to complete with normal human skills. They were the famous twelve labors of Heracles."
+"Muchas de estas adversidades no podían ser superadas con la fuerza de un humano.\n"
+"Estos son los célebres \"doce trabajos\" de Heracles."
 
 #: status_details.dic:251
 msgid ""
@@ -4154,12 +4166,13 @@ msgid ""
 "だが、その後のヘラクレスの人生も\n"
 "狂気に彩られたものだった。"
 msgstr ""
-"The number of labors chosen by the gods was ten, but since Eurystheus did not accept the fulfilment of two of those, he added two more labors.\n"
+"Los dioses encomendaron diez trabajos a Heracles, pero dos de ellos no fueron reconocidos por Euristeo, así que este le impuso otros dos.\n"
 "\n"
-"But Heracles safely completed even those tasks and not only was he freed from slavery but he also received an immortal body as proof of his great accomplishments.\n"
+"Aun así, Heracles completó sin problema alguno estos trabajos y logró liberarse de la esclavitud a la que estaba sometido. Como prueba de este logro, se le concedió la inmortalidad.\n"
 "\n"
-"The greatest hero in Greece. This was the beginning of the great hero Heracles, who single-handedly achieved great deeds equaling those of the Trojan War and the Argo Expedition. But the rest of "
-"Heracles’s life was again full of madness."
+"Es el héroe más grande de Grecia.\n"
+"Realizó por sí mismo hazañas tan grandes como la de los argonautas y las de la guerra de Troya, marcando el nacimiento del gran héroe Heracles.\n"
+"Sin embargo, el resto de su vida se vio trágicamente manchada por la locura."
 
 #: status_details.dic:258
 msgid ""
@@ -4176,11 +4189,11 @@ msgid ""
 "毒に冒された体のまま自らを火葬し、\n"
 "主神ゼウスの裁きに自分を委ねた。"
 msgstr ""
-"Hera’s hatred was endless, and Heracles, who should have been immortal, was killed by poison by one of his wives.\n"
+"El odio de la diosa Hera era eterno, y el supuesto inmortal Heracles murió envenenado a manos de una de sus esposas.\n"
 "\n"
-"The great hero, equally matched with the sun god even as a human, was in the end slowly killed by the persistent jealously of a Goddess.\n"
+"Aunque el gran héroe incluso peleó a la par del dios del sol con el cuerpo de un humano, al final, lo que lo asesinó fue la obstinada envidia de la diosa.\n"
 "\n"
-"At the point of his death, Heracles burned his body still contaminated with poison, and entrusted himself to Zeus’s judgement."
+"En "
 
 #: status_details.dic:265
 msgid ""
@@ -4522,7 +4535,7 @@ msgstr ""
 #: status_id.dic:4 status_id.dic:5 status_id.dic:6 status_id.dic:7 status_id.dic:8 status_id.dic:9 status_id.dic:10 status_id.dic:11 status_id.dic:12 status_id.dic:13
 #, javascript-format
 msgid "%scm %skg"
-msgstr "%scm %skg"
+msgstr "%s cm %s kg"
 
 #: status_id.dic:26
 msgid "佐々木 小次郎"
@@ -4654,14 +4667,14 @@ msgstr "Mano de Dios"
 
 #: status_noble_phantasm_buttons.dic:14 status_noble_phantasm_text.dic:159 status_noble_phantasm_text.dic:168
 msgid "十二の試練"
-msgstr "Los doce labores"
+msgstr "Los doce trabajos"
 
 #: status_noble_phantasm_specification.dic:2
 #, javascript-format
 msgid "%d 個"
 msgid_plural "%d 個"
-msgstr[0] "%d object"
-msgstr[1] "%d objects"
+msgstr[0] "%d objeto"
+msgstr[1] "%d objetos"
 
 #: status_noble_phantasm_specification.dic:2 status_noble_phantasm_specification.dic:3 status_noble_phantasm_specification.dic:4 status_noble_phantasm_specification.dic:5
 #: status_noble_phantasm_specification.dic:8 status_noble_phantasm_specification.dic:9 status_noble_phantasm_specification.dic:10 status_noble_phantasm_specification.dic:16
@@ -4688,7 +4701,7 @@ msgstr ""
 #: status_noble_phantasm_specification.dic:2 status_noble_phantasm_specification.dic:3 status_noble_phantasm_specification.dic:8 status_noble_phantasm_specification.dic:12
 #: status_noble_phantasm_specification.dic:13 status_noble_phantasm_specification.dic:14 status_noble_phantasm_specification.dic:15 status_noble_phantasm_specification.dic:17
 msgid "対人宝具"
-msgstr "Anti-Personnel NP"
+msgstr "VH antipersonas"
 
 #: status_noble_phantasm_specification.dic:3 status_noble_phantasm_specification.dic:4 status_noble_phantasm_specification.dic:5 status_noble_phantasm_specification.dic:6
 #: status_noble_phantasm_specification.dic:9 status_noble_phantasm_specification.dic:10 status_noble_phantasm_specification.dic:11 status_noble_phantasm_specification.dic:12
@@ -4702,7 +4715,7 @@ msgstr[1] "%d personas"
 
 #: status_noble_phantasm_specification.dic:4 status_noble_phantasm_specification.dic:9 status_noble_phantasm_specification.dic:10
 msgid "対軍宝具"
-msgstr "VH anti-ejercito"
+msgstr "VH antiejercito"
 
 #: status_noble_phantasm_specification.dic:4 status_skills.dic:183
 msgid "Ｂ＋"
@@ -4710,7 +4723,7 @@ msgstr "B+"
 
 #: status_noble_phantasm_specification.dic:5 status_noble_phantasm_specification.dic:18
 msgid "対城宝具"
-msgstr "VH anti-castillo"
+msgstr "VH anticastillo"
 
 #: status_noble_phantasm_specification.dic:5 status_noble_phantasm_specification.dic:18
 msgid "Ａ＋＋"
@@ -4718,7 +4731,7 @@ msgstr "A++"
 
 #: status_noble_phantasm_specification.dic:6 status_noble_phantasm_specification.dic:16
 msgid "EX"
-msgstr ""
+msgstr "EX"
 
 #: status_noble_phantasm_specification.dic:6
 #, javascript-format
@@ -4727,13 +4740,13 @@ msgid ""
 "種別：%s\n"
 "防御対象 %s"
 msgstr ""
-"Rank: %s\n"
-"Type: %s\n"
-"Protection Target: %s"
+"Nivel: %s\n"
+"Tipo: %s\n"
+"Protege: %s"
 
 #: status_noble_phantasm_specification.dic:6
 msgid "結界宝具"
-msgstr "Barrier NP"
+msgstr "VH barrera"
 
 #: status_noble_phantasm_specification.dic:7 voice_names.dic:35
 msgid "？？？"
@@ -4741,7 +4754,7 @@ msgstr "???"
 
 #: status_noble_phantasm_specification.dic:7 status_noble_phantasm_specification.dic:15
 msgid "Ｅ～Ａ＋＋"
-msgstr "E~A++"
+msgstr "E-A++"
 
 #: status_noble_phantasm_specification.dic:8
 #, javascript-format
@@ -4751,14 +4764,14 @@ msgid ""
 "レンジ：%s\n"
 "最大補足：%s"
 msgstr ""
-"Rank: %s\n"
-"Type: %s\n"
-"Range: %s\n"
-"Max Equip: %s"
+"Nivel: %s\n"
+"Tipo: %s\n"
+"Alcance: %s\n"
+"Equipar: %s"
 
 #: status_noble_phantasm_specification.dic:11
 msgid "対魔術宝具"
-msgstr "Anti-Magic NP"
+msgstr "VH antimagia"
 
 #: status_noble_phantasm_specification.dic:12 status_skills.dic:92
 msgid "Ｃ－"
@@ -4772,14 +4785,14 @@ msgid ""
 "レンジ：%s\n"
 "最大効果：%s"
 msgstr ""
-"Rank: %s\n"
-"Type: %s\n"
-"Range: %s\n"
-"Max Effect: %s"
+"Nivel: %s\n"
+"Tipo: %s\n"
+"Alcance: %s\n"
+"Afecta: %s"
 
 #: status_noble_phantasm_specification.dic:13 status_noble_phantasm_specification.dic:14 status_noble_phantasm_specification.dic:15
 msgid "ー"
-msgstr "—"
+msgstr "-"
 
 #: status_noble_phantasm_specification.dic:15
 #, javascript-format
@@ -4788,13 +4801,13 @@ msgid ""
 "種別：%s\n"
 "レンジ：%s"
 msgstr ""
-"Rank: %s\n"
-"Type: %s\n"
-"Range: %s"
+"Nivel: %s\n"
+"Tipo: %s\n"
+"Alcance: %s"
 
 #: status_noble_phantasm_specification.dic:16
 msgid "対界宝具"
-msgstr "Anti-World NP"
+msgstr "VH antimundo"
 
 #: status_noble_phantasm_text.dic:8
 msgid ""
@@ -5022,7 +5035,7 @@ msgstr "Unlimited Blade Works"
 
 #: status_noble_phantasm_text.dic:106
 msgid "無限の剣製"
-msgstr "Infinite Sword Creation"
+msgstr "La forja sin fin"
 
 #: status_noble_phantasm_text.dic:107
 msgid ""
@@ -5213,11 +5226,11 @@ msgstr ""
 
 #: status_noble_phantasm_text.dic:207 status_noble_phantasm_text.dic:216
 msgid "ザバーニーヤ"
-msgstr "Zabaniya"
+msgstr "Zabaniyah"
 
 #: status_noble_phantasm_text.dic:208 status_noble_phantasm_text.dic:217
 msgid "妄想心音"
-msgstr "Heartbeat of Delusion"
+msgstr "Latido del delirio"
 
 #: status_noble_phantasm_text.dic:209
 msgid ""
