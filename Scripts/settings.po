@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Realta Nua\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-27 12:19+0300\n"
-"PO-Revision-Date: 2025-03-21 19:23-0300\n"
+"PO-Revision-Date: 2026-11-20 22:15-0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: sp\n"
@@ -11,10 +11,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.10\n"
 "X-Poedit-Basepath: .\n"
-"X-Poedit-KeywordsList: __;_n:1,2;_x:1,2c;_nx:4c,1,2;_n_noop:1,2;"
-"_nx_noop:3c,1,2;_t\n"
+"X-Poedit-KeywordsList: "
+"__;_n:1,2;_x:1,2c;_nx:4c,1,2;_n_noop:1,2;_nx_noop:3c,1,2;_t\n"
 "X-Poedit-SourceCharset: UTF-16LE\n"
 
 #: FlowChartLayer.tjs:71
@@ -632,12 +632,12 @@ msgstr ""
 #: TextDrawerSettings.tjs:543
 msgctxt "ss_weaponsTitle_title_fontFace"
 msgid "DFGLeiSho-SB"
-msgstr "Official Fate Font"
+msgstr ",Trebuchet MS"
 
 #: TextDrawerSettings.tjs:544
 msgctxt "ss_weaponsTitle_title_fontHeight"
 msgid "26"
-msgstr "24"
+msgstr "20"
 
 #: TextDrawerSettings.tjs:546
 msgctxt "ss_weaponsTitle_title_topOffset"
@@ -647,7 +647,7 @@ msgstr ""
 #: TextDrawerSettings.tjs:562
 msgctxt "ss_weaponsTitle_rubyTitle_fontFace"
 msgid "DFPLeiSho-SB"
-msgstr "Official Fate Font"
+msgstr ",Trebuchet MS"
 
 #: TextDrawerSettings.tjs:563
 msgctxt "ss_weaponsTitle_rubyTitle_fontHeight"
@@ -667,12 +667,12 @@ msgstr "0"
 #: TextDrawerSettings.tjs:578
 msgctxt "ss_weaponsUser_text_fontFace"
 msgid "DFGRyuSeki-W9"
-msgstr "Official Fate Font"
+msgstr ",Trebuchet MS"
 
 #: TextDrawerSettings.tjs:579
 msgctxt "ss_weaponsUser_text_fontHeight"
 msgid "26"
-msgstr ""
+msgstr "20"
 
 #: TextDrawerSettings.tjs:580
 msgctxt "ss_weaponsUser_text_topOffset"
@@ -687,7 +687,7 @@ msgstr "0"
 #: TextDrawerSettings.tjs:607
 msgctxt "ss_weaponsText_text_fontFace"
 msgid "DFGRyuSeki-W9"
-msgstr "Official Fate Font"
+msgstr ",Trebuchet MS"
 
 #: TextDrawerSettings.tjs:608
 msgctxt "ss_weaponsText_text_fontHeight"
@@ -717,12 +717,12 @@ msgstr ""
 #: TextDrawerSettings.tjs:638
 msgctxt "ss_weaponsName_text_fontFace"
 msgid "DFGLeiSho-SB"
-msgstr "Official Fate Font"
+msgstr ",Trebuchet MS"
 
 #: TextDrawerSettings.tjs:639
 msgctxt "ss_weaponsName_text_fontHeight"
 msgid "20"
-msgstr ""
+msgstr "17"
 
 #: TextDrawerSettings.tjs:640
 msgctxt "ss_weaponsName_text_topOffset"
@@ -877,7 +877,7 @@ msgstr ""
 #: TextDrawerSettings.tjs:804
 msgctxt "ss_extraMenuButtons_text_fontHeight"
 msgid "22"
-msgstr ""
+msgstr "18"
 
 #: TextDrawerSettings.tjs:807
 msgctxt "ss_extraMenuButtons_text_letterSpace"
@@ -1002,7 +1002,7 @@ msgstr ""
 #: about.ks:40
 msgctxt "translation_version"
 msgid "unknown_version"
-msgstr "Alpha 0.1"
+msgstr "alpha 0.1"
 
 #: bgmconfiglayer.tjs:23 bgmconfiglayer.tjs:318
 msgctxt "bgm_font_face"
