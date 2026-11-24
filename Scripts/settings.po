@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Realta Nua\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-27 12:19+0300\n"
-"PO-Revision-Date: 2026-11-20 22:15-0300\n"
+"PO-Revision-Date: 2026-11-22 18:39-0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: sp\n"
@@ -357,7 +357,7 @@ msgstr "379"
 #: TextDrawerSettings.tjs:242
 msgctxt "ss_abilities_title_fontFace"
 msgid "MS UI Gothic"
-msgstr ",Sabon Next LT Pro Display"
+msgstr ",Trebuchet MS"
 
 #: TextDrawerSettings.tjs:243
 msgctxt "ss_abilities_title_fontHeight"
@@ -372,7 +372,7 @@ msgstr ""
 #: TextDrawerSettings.tjs:256
 msgctxt "ss_abilities_text_fontFace"
 msgid "ＭＳ ゴシック"
-msgstr ",Sabon Next LT Pro Display"
+msgstr ",Trebuchet MS"
 
 #: TextDrawerSettings.tjs:257
 msgctxt "ss_abilities_text_fontHeight"
@@ -407,12 +407,12 @@ msgstr "18"
 #: TextDrawerSettings.tjs:297
 msgctxt "ss_details_text_fontFace"
 msgid "MS UI Gothic"
-msgstr ",Sabon Next LT Pro Display"
+msgstr ",Trebuchet MS"
 
 #: TextDrawerSettings.tjs:298
 msgctxt "ss_details_text_fontHeight"
 msgid "13"
-msgstr ""
+msgstr "12"
 
 #: TextDrawerSettings.tjs:299
 msgctxt "ss_details_text_topOffset"
@@ -432,7 +432,7 @@ msgstr "3"
 #: TextDrawerSettings.tjs:329
 msgctxt "ss_skillsTitle_title_fontFace"
 msgid "DFGLeiSho-SB"
-msgstr ",Sabon Next LT Pro Display"
+msgstr ",Trebuchet MS"
 
 #: TextDrawerSettings.tjs:330
 msgctxt "ss_skillsTitle_title_fontHeight"
@@ -452,7 +452,7 @@ msgstr "5"
 #: TextDrawerSettings.tjs:354
 msgctxt "ss_skills_title_fontFace"
 msgid "DFPKaiSho-Bd"
-msgstr ",Sabon Next LT Pro Display"
+msgstr ",Trebuchet MS"
 
 #: TextDrawerSettings.tjs:355
 msgctxt "ss_skills_title_fontHeight"
@@ -472,7 +472,7 @@ msgstr "51"
 #: TextDrawerSettings.tjs:363
 msgctxt "ss_skills_text_fontFace"
 msgid "MS UI Gothic"
-msgstr ",Sabon Next LT Pro Display"
+msgstr ",Trebuchet MS"
 
 #: TextDrawerSettings.tjs:364
 msgctxt "ss_skills_text_fontHeight"
@@ -497,7 +497,7 @@ msgstr "3"
 #: TextDrawerSettings.tjs:392
 msgctxt "ss_noblePhantasmText_title_fontFace"
 msgid "DFGLeiSho-SB"
-msgstr ",FZShuTi"
+msgstr ",Trebuchet MS"
 
 #: TextDrawerSettings.tjs:393
 msgctxt "ss_noblePhantasmText_title_fontHeight"
@@ -517,7 +517,7 @@ msgstr "1"
 #: TextDrawerSettings.tjs:409
 msgctxt "ss_noblePhantasmText_rubyTitle_fontFace"
 msgid "DFRyuSeki-W9"
-msgstr ",FZShuTi"
+msgstr ",Trebuchet MS"
 
 #: TextDrawerSettings.tjs:410
 msgctxt "ss_noblePhantasmText_rubyTitle_fontHeight"
@@ -537,7 +537,7 @@ msgstr ""
 #: TextDrawerSettings.tjs:415
 msgctxt "ss_noblePhantasmText_text_fontFace"
 msgid "MS UI Gothic"
-msgstr ",Sabon Next LT Pro Display"
+msgstr ",Trebuchet MS"
 
 #: TextDrawerSettings.tjs:416
 msgctxt "ss_noblePhantasmText_text_fontHeight"
@@ -562,7 +562,7 @@ msgstr "3"
 #: TextDrawerSettings.tjs:439
 msgctxt "ss_noblePhantasmSpecification_text_fontFace"
 msgid "DFPKaiSho-Bd"
-msgstr ",Sabon Next LT Pro Display"
+msgstr ",Trebuchet MS"
 
 #: TextDrawerSettings.tjs:440
 msgctxt "ss_noblePhantasmSpecification_text_fontHeight"
@@ -582,7 +582,7 @@ msgstr "0"
 #: TextDrawerSettings.tjs:466
 msgctxt "ss_noblePhantasmButtons_title_fontFace"
 msgid "DFGLeiSho-SB"
-msgstr ",Sabon Next LT Pro Display"
+msgstr ",Trebuchet MS"
 
 #: TextDrawerSettings.tjs:467
 msgctxt "ss_noblePhantasmButtons_title_fontHeight"
@@ -607,12 +607,12 @@ msgstr "0"
 #: TextDrawerSettings.tjs:518
 msgctxt "ss_noblePhantasmButtons_rubyTitle_fontFace"
 msgid "DFRyuSeki-W9"
-msgstr ",Sabon Next LT Pro Display"
+msgstr ",Trebuchet MS"
 
 #: TextDrawerSettings.tjs:519
 msgctxt "ss_noblePhantasmButtons_rubyTitle_fontHeight"
 msgid "11"
-msgstr "9"
+msgstr "10"
 
 #: TextDrawerSettings.tjs:520
 msgctxt "ss_noblePhantasmButtons_rubyTitle_fontBold"
@@ -1486,7 +1486,7 @@ msgstr "8"
 #: status_noble_phantasm_buttons.dic:4
 msgctxt "ss_noblePhantasmButtons_title_fontHeight_SaberBoundary"
 msgid "22"
-msgstr "10"
+msgstr "9"
 
 #: status_noble_phantasm_buttons.dic:5
 msgctxt "ss_noblePhantasmButtons_rubyTitle_fontHeight_LancerPiercing"

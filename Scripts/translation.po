@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Realta Nua\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-27 12:19+0300\n"
-"PO-Revision-Date: 2026-10-25 00:15-0300\n"
+"PO-Revision-Date: 2026-11-23 00:26-0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_419\n"
@@ -2092,7 +2092,7 @@ msgstr "Pregunta 3"
 
 #: flaglist.txt:12 凛ルート三日目.fcf:8 凛ルート五日目.fcf:15 凛ルート四日目.fcf:2
 msgid "自然治癒を知らない"
-msgstr "Sin saber de la auto-curación "
+msgstr "Sin saber de la autocuración"
 
 #: flaglist.txt:13 凛ルート十三日目.fcf:8 凛ルート十三日目.fcf:19
 msgid "不勇の罪"
@@ -2878,7 +2878,7 @@ msgstr "&No usar multihilos"
 
 #: patch_menu_base.tjs:1444
 msgid "自動：プロセッサ数で分割(&A)"
-msgstr "&Automático por conteo de la cpu"
+msgstr "&Automático por conteo de la CPU"
 
 #: patch_menu_base.tjs:1462
 msgid "メッセージウィンドウ(&M)"
@@ -3617,7 +3617,7 @@ msgstr ""
 "La reina de Connacht, Medb, comparaba sus toros con los de su esposo. Por este motivo absurdo, invadió el reino de Úlster con el único fin de obtener el toro dorado Donn Cúailnge, causando la "
 "guerra entre los reinos.\n"
 "\n"
-"El ejercito de Connacht consistía de tres reinos aliados, pero Cú Chulainn continuó apoyando al ejercito de Úlster por 7 años. A pesar de que era más débil, logró repeler al ejercito de Connacht.\n"
+"El ejército de Connacht consistía de tres reinos aliados, pero Cú Chulainn continuó apoyando al ejército de Úlster por 7 años. A pesar de que era más débil, logró repeler al ejército de Connacht.\n"
 "\n"
 "En aquella ocasión, Cú Chulainn, tras haber capturado a la culpable de todas estas peleas, la reina Medb, le dijo: «No puedo matar a esta mujer». Por lo cual, fue liberada, y tanto Úlster como "
 "Connacht se reconciliaron."
@@ -3936,13 +3936,13 @@ msgstr ""
 "\n"
 "Un demonio que suele ser representado como una serpiente personificada.\n"
 "Fue derrotada por el héroe Perseo.\n"
-"Alabada como un anti-héroe debido a sus pensamientos negativos.\n"
+"Alabada como un antihéroe debido a sus pensamientos negativos.\n"
 "\n"
 "Forma parte de las 3 hermanas gorgonas:\n"
 "Esteno (Mujer fuerte).\n"
 "Euríale (Viaje extenso).\n"
 "Medusa (Guardiana).\n"
-"Ella es la hermana más joven que, a diferencia de sus hermanas no es inmortal.\n"
+"Ella es la hermana más joven que, a diferencia de sus hermanas, no es inmortal.\n"
 "Fue criada en los alrededores de la llamada \"isla sin forma\", donde crecían manzanas doradas."
 
 #: status_details.dic:195
@@ -4141,7 +4141,7 @@ msgstr ""
 "Aquejado por su pecado, Heracles recibió un mensaje divino. Este dictaba que para expiar sus pecados debía convertirse en el esclavo de Euristeo, el hombre que había arrebatado a Heracles su "
 "derecho al trono.\n"
 "\n"
-"Euristeo, celoso de Heracles por ser un héroe fuerte, le impuso multitud de retos y le dijo que seguiría siendo su esclavo hasta que los completara.\n"
+"Euristeo, celoso de Heracles por ser un héroe fuerte, le impuso una multitud de retos y le dijo que seguiría siendo su esclavo hasta que los completara.\n"
 "\n"
 "Muchas de estas adversidades no podían ser superadas con la fuerza de un humano.\n"
 "Estos son los célebres \"doce trabajos\" de Heracles."
@@ -4193,7 +4193,7 @@ msgstr ""
 "\n"
 "Aunque el gran héroe incluso peleó a la par del dios del sol con el cuerpo de un humano, al final, lo que lo asesinó fue la obstinada envidia de la diosa.\n"
 "\n"
-"En "
+"En su lecho de muerte, Heracles quemó su cuerpo cuando este fue envenenado y así, este dejó en manos del dios Zeus el como sería juzgado."
 
 #: status_details.dic:265
 msgid ""
@@ -4212,12 +4212,12 @@ msgid ""
 "“射殺す百頭　（ナインライブズ）”\n"
 "と呼ばれる弓矢である。"
 msgstr ""
-"It is said that the gods, in a conference, approved of Heracles’s great deeds and prepared a seat in Olympus after his death and worshiped him as a god.\n"
+"Se dice que, tras la reunión de los dioses, los logros de Heracles fueron reconocidos por ellos, así que se le preparó un puesto en el Olimpo tras su muerte, ahora es alabado como un dios.\n"
 "\n"
-"Heracles went insane many times in the myth, but he really was an excellent warrior who could handle any weapon.\n"
+"Heracles estuvo sumido en locura varias veces durante el mito, aun así, él fue un excelente guerrero, capaz de usar numerosas armas.\n"
 "\n"
-"He has the attributes to become any of the seven classes except Caster, and the greatest Noble Phantasm in his possession is a bow and arrow he obtained in the twelve labors called “Shooting "
-"hundred beasts (Nine Lives)”."
+"Es poseedor de los talentos necesarios para ser de todas las clases a excepción de Caster, pero no solo eso, también su vestigio heroico más poderoso son el arco y flecha obtenidos en los doce "
+"trabajos llamado \"cercenando cien cabezas (nueve vidas)\"."
 
 #: status_details.dic:271 status_details.dic:278 status_details.dic:285 status_details.dic:292 status_details.dic:299 status_details.dic:306 status_details.dic:313 status_id.dic:28 voice_names.dic:16
 msgid "ギルガメッシュ"
@@ -4239,12 +4239,6 @@ msgid ""
 "この世の全てを手に入れた超越者として\n"
 "完成されていた。"
 msgstr ""
-"A half-god, half-human king that ruled the Sumerian city-state of Uruk in the years before Christ.\n"
-"\n"
-"Not merely a legend, he is said to have actually existed. He was the king of heroes whose tale is recorded in mankind’s oldest epic poem,\n"
-"“The Epic of Gilgamesh”.\n"
-"\n"
-"So divine as to be 2/3 god and 1/3 human, no others in the world could match him; he was an ultimate, transcendent being that possessed all things in this world."
 
 #: status_details.dic:279
 msgid ""
@@ -4635,7 +4629,7 @@ msgstr "Destructor de la Gorgona"
 
 #: status_noble_phantasm_buttons.dic:7 status_noble_phantasm_text.dic:133
 msgid "自己封印・暗黒神殿"
-msgstr "Templo oscuro auto sellador"
+msgstr "Templo oscuro autosellador"
 
 #: status_noble_phantasm_buttons.dic:8 status_noble_phantasm_text.dic:114
 msgid "ベルレフォーン"
@@ -4715,7 +4709,7 @@ msgstr[1] "%d personas"
 
 #: status_noble_phantasm_specification.dic:4 status_noble_phantasm_specification.dic:9 status_noble_phantasm_specification.dic:10
 msgid "対軍宝具"
-msgstr "VH antiejercito"
+msgstr "VH antiejército"
 
 #: status_noble_phantasm_specification.dic:4 status_skills.dic:183
 msgid "Ｂ＋"
